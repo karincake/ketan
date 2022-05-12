@@ -1,0 +1,5 @@
+package gostructvalidator
+
+func init() {
+
+}
