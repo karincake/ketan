@@ -1,1 +1,1 @@
-# struct-validator
+# go struct validator
