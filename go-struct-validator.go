@@ -1,5 +1,0 @@
-package gostructvalidator
-
-func init() {
-
-}
