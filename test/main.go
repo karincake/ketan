@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/karincake/gosv"
+	gosv "github.com/karincake/ketan"
 )
 
 type myS struct {

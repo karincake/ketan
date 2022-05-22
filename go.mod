@@ -1,4 +1,4 @@
-module github.com/karincake/gosv
+module github.com/karincake/ketan
 
 go 1.18
 
