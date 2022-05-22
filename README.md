@@ -1,13 +1,13 @@
-# go struct validator
+# Ketan: Struct Validator for Go
 A simple validator for struct.
 
-# usage
+## usage
 Import the package then call the function, ie. validate(myStruct). See the example at `./test/main.go`
 
-# func return
+## func return
 The validation return map[string]ValidationError where each key of the map represents a struct field name containing error.
 
-# type validationError
+## type validationError
 Struct with the following fields:
 1. 	Error      error // the error message
 2.	Code       string // code of the rule given to the field
